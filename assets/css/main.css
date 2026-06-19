@@ -3400,15 +3400,15 @@ input, select, textarea {
 		}
 
 			#banner .logo .icon {
-				border-radius: 50%;
+				border-radius: 100%;
 				border: solid 2px rgba(123, 34, 56, 0.125);
 				cursor: default;
 				display: inline-block;
 				font-size: 2em;
-				height: 20em;
+				height: 40em;
 				/* line-height: 2.25em; */
 				/* text-align: center; */
-				width: 20em;
+				width: 40em;
 				object-fit: cover;
    				vertical-align: middle;
 			}

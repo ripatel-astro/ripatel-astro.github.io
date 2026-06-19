@@ -3401,7 +3401,7 @@ input, select, textarea {
 
 			#banner .logo .icon {
 				border-radius: 100%;
-				border: solid 4px rgba(123, 34, 56, 1);
+				border: solid 4px rgba(123, 34, 56, .5);
 				cursor: default;
 				display: inline-block;
 				font-size: 6em;
